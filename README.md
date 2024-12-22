@@ -20,3 +20,6 @@ First, clone the repository to your local machine.
 
 ```bash
 git clone https://github.com/keshavchoudhary7/react-projects.git
+cd react-to-do-app
+npm install
+npm run dev
