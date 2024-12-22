@@ -28,7 +28,7 @@ const Header = () => {
             </a>
           </li>
           <li>
-            <a href="https://github.com/keshavchoudhary7" target='_blank' className="nav-link text-lg font-medium relative group hover:underline">
+            <a href="https://github.com/keshavchoudhary7/react-to-do-app/tree/main" target='_blank' className="nav-link text-lg font-medium relative group hover:underline">
               My Projects
               <span className="absolute bottom-0 left-0 w-0 h-1 bg-red-950 group-hover:w-full transition-all duration-300"></span>
             </a>
@@ -66,7 +66,7 @@ const Header = () => {
               <a href="https://www.linkedin.com/in/keshavchoudhary/" target='_blank' className="block text-lg font-medium">About</a>
             </li>
             <li>
-              <a href="https://github.com/keshavchoudhary7" target='_blank' className="block text-lg font-medium">My Projects</a>
+              <a href="https://github.com/keshavchoudhary7/react-to-do-app/tree/main" target='_blank' className="block text-lg font-medium">My Projects</a>
             </li>
           </ul>
         </div>
